@@ -1,3 +1,4 @@
+import java.io.Console;
 import java.util.Scanner;
 
 /**
@@ -20,9 +21,18 @@ class Constants
         System.out.println("Paper size in centimeters: "
         + paperWidth * CM_PER_INCH + " by " + paperHeight * CM_PER_INCH);
 
-        Scanner in = new Scanner(System.in);
-        System.out.println("What's u name");
-        String name = in.nextLine();
-        System.out.println("Hello " + name);
+//        Scanner in = new Scanner(System.in);
+//        System.out.println("What's u name");
+//        String name = in.nextLine();
+//        System.out.println("Hello " + name);
+
+        Console cons = System.console();
+        try {
+            String username = cons.readLine("Username: ");
+//            char[] password = cons.readPassword("Password: ");
+            System.out.println("username: " + username);
+        } catch (Exception e) {
+            System.out.println(e);
+        }
     }
 }
