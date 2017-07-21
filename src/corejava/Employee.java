@@ -2,6 +2,7 @@ package corejava;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
+import java.util.Objects;
 
 /**
  * Created by Lix on 2017/7/20.
@@ -49,10 +50,9 @@ public class Employee extends Person {
             return false;
         }
 
-        Employee other = (Employee)otherObject;
+        Employee other = (Employee) otherObject;
 
-        return name.equals(other.name)
-                && salary == other.salary
-                && hireDay.equals(other.hireDay);
+        return Objects.equals(name, other.name) && salary == other.salary
+                && Objects.equals(hireDay, other.hireDay);
     }
 }
