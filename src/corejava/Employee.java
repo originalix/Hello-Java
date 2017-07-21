@@ -35,4 +35,24 @@ public class Employee extends Person {
         double raise = salary * byPercent / 100;
         salary += raise;
     }
+
+    public boolean equals(Object otherObject) {
+        if (this == otherObject) {
+            return true;
+        }
+
+        if (otherObject == null) {
+            return false;
+        }
+
+        if (getClass() != otherObject.getClass()) {
+            return false;
+        }
+
+        Employee other = (Employee)otherObject;
+
+        return name.equals(other.name)
+                && salary == other.salary
+                && hireDay.equals(other.hireDay);
+    }
 }
