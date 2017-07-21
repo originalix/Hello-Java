@@ -18,9 +18,9 @@ public class Employee extends Person {
         hireDay = calendar.getTime();
     }
 
-    public String getName() {
-        return name;
-    }
+//    public String getName() {
+//        return name;
+//    }
 
     public double getSalary()
     {
