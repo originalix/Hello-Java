@@ -3,5 +3,15 @@ package corejava;
 /**
  * Created by Lix on 2017/7/22.
  */
-public class Person {
+public abstract class Person {
+    public abstract String getDescription();
+    private String name;
+
+    public Person(String n) {
+        name = n;
+    }
+
+    public String getName() {
+        return name;
+    }
 }

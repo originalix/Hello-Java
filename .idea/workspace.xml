@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37a9087-0201-4531-a028-d7b629cfb7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/corejava/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/corejava/Person.java" afterPath="$PROJECT_DIR$/src/corejava/Person.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,9 +92,13 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/corejava/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="285">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/PackageTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/Manager.java" />
         <option value="$PROJECT_DIR$/src/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/Person.java" />
       </list>
     </option>
   </component>
@@ -735,12 +739,12 @@
       <workItem from="1500436805287" duration="1392000" />
       <workItem from="1500516981782" duration="1116000" />
       <workItem from="1500616517062" duration="2789000" />
-      <workItem from="1500678177927" duration="178000" />
+      <workItem from="1500678177927" duration="309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7954000" />
+    <option name="totallyTimeSpent" value="8085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1079,9 +1083,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/corejava/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
