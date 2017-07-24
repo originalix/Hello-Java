@@ -55,4 +55,12 @@ public class Employee extends Person {
         return Objects.equals(name, other.name) && salary == other.salary
                 && Objects.equals(hireDay, other.hireDay);
     }
+
+    public int hashCode() {
+        return Objects.hash(name, salary, hireDay);
+    }
+
+    public String toString() {
+        return getClass().getName() + "[name=" + name + " , salary = " + salary + " , hireDay = " + hireDay + "]";
+    }
 }
