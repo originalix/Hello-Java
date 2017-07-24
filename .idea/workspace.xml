@@ -90,12 +90,15 @@
       <file leaf-file-name="Manager.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/corejava/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="532">
+              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="e#418#419#0" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -785,12 +788,12 @@
       <workItem from="1500516981782" duration="1116000" />
       <workItem from="1500616517062" duration="2789000" />
       <workItem from="1500678177927" duration="2235000" />
-      <workItem from="1500903078832" duration="305000" />
+      <workItem from="1500903078832" duration="416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10316000" />
+    <option name="totallyTimeSpent" value="10427000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -899,6 +902,9 @@
             <element signature="e#418#419#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1007,6 +1013,9 @@
             <element signature="e#418#419#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1243,12 +1252,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/corejava/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="532">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="e#418#419#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
         </state>
       </provider>
