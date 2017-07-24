@@ -19,4 +19,8 @@ public class Manager extends Employee {
     public void setBonus(double b) {
         bonus = b;
     }
+
+    public int hashCode() {
+        return super.hashCode() + 17 * new Double(bonus).hashCode();
+    }
 }
