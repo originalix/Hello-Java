@@ -7,6 +7,10 @@ import java.lang.reflect.Modifier;
  */
 public class ReflectionTest {
 
+    /**
+     * Prints all methods of a class
+     * @param cl a class
+     */
     public static void printMethods(Class cl) {
         Method[] methods = cl.getDeclaredMethods();
         for (Method m : methods) {
@@ -47,6 +51,7 @@ public class ReflectionTest {
             if (modifiers.length() > 0) {
                 System.out.print(modifiers + " ");
             }
+            System.out.println(type.getName() + " " + name + ";");
         }
     }
 }
