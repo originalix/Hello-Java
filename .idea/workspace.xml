@@ -77,8 +77,8 @@
       <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="619">
+              <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -756,12 +756,12 @@
       <workItem from="1500616517062" duration="2789000" />
       <workItem from="1500678177927" duration="2235000" />
       <workItem from="1500903078832" duration="4953000" />
-      <workItem from="1500954205388" duration="1745000" />
+      <workItem from="1500954205388" duration="2573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16709000" />
+    <option name="totallyTimeSpent" value="17537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,7 +815,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1290,8 +1290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="619">
+          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
