@@ -5,6 +5,10 @@ import java.lang.reflect.Modifier;
  * Created by Lix on 2017/7/25.
  */
 public class ReflectionTest {
+    /**
+     * Prints all fields of a class
+     * @param cl a class
+     */
     public static void printFields(Class cl) {
         Field[] fields = cl.getDeclaredFields();
 
