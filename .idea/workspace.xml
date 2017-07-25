@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37a9087-0201-4531-a028-d7b629cfb7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReflectionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReflectionTest.java" afterPath="$PROJECT_DIR$/src/ReflectionTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,9 +78,11 @@
       <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="361">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/EqualsTest.java" />
         <option value="$PROJECT_DIR$/src/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionTest.java" />
       </list>
     </option>
   </component>
@@ -755,12 +757,12 @@
       <workItem from="1500616517062" duration="2789000" />
       <workItem from="1500678177927" duration="2235000" />
       <workItem from="1500903078832" duration="4953000" />
-      <workItem from="1500954205388" duration="122000" />
+      <workItem from="1500954205388" duration="309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15086000" />
+    <option name="totallyTimeSpent" value="15273000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1282,9 +1284,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
