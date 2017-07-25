@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37a9087-0201-4531-a028-d7b629cfb7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CopyOfTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CopyOfTest.java" afterPath="$PROJECT_DIR$/src/CopyOfTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,8 +82,8 @@
       <file leaf-file-name="CopyOfTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CopyOfTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -123,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/src/CopyOfTest.java" />
       </list>
     </option>
   </component>
@@ -761,12 +761,12 @@
       <workItem from="1500678177927" duration="2235000" />
       <workItem from="1500903078832" duration="4953000" />
       <workItem from="1500954205388" duration="2750000" />
-      <workItem from="1500961255887" duration="27000" />
+      <workItem from="1500961255887" duration="238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17741000" />
+    <option name="totallyTimeSpent" value="17952000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1280,8 +1280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CopyOfTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>
