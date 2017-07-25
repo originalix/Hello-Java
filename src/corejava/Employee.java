@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * Created by Lix on 2017/7/20.
  */
-public class Employee extends Person {
+public class Employee extends Person implements Comparable<Employee> {
     private String name;
     private double salary;
     private Date hireDay;
@@ -62,5 +62,9 @@ public class Employee extends Person {
 
     public String toString() {
         return getClass().getName() + "[name=" + getName() + " , salary = " + salary + " , hireDay = " + hireDay + "]";
+    }
+
+    public int compareTo(Employee other) {
+        return Double.compare(salary, other.salary);
     }
 }
