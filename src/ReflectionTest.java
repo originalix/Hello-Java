@@ -29,7 +29,7 @@ public class ReflectionTest {
             }
             System.out.print("class " + name);
             if (supercl != null && supercl != Objects.class) {
-                System.out.print("extends " + supercl.getName());
+                System.out.print(" extends " + supercl.getName());
             }
             System.out.print("\n{\n");
             printConstructors(cl);
