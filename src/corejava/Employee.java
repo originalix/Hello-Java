@@ -25,7 +25,7 @@ public class Employee extends Person implements Comparable<Employee>, Cloneable 
 
         //clone mutable fields
         cloned.hireDay = (Date) hireDay.clone();
-        
+
         return cloned;
     }
 
