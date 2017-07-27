@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * Created by Lix on 2017/7/20.
  */
-public class Employee extends Person implements Comparable<Employee> {
+public class Employee extends Person implements Comparable<Employee>, Cloneable {
     private String name;
     private double salary;
     private Date hireDay;
@@ -17,6 +17,16 @@ public class Employee extends Person implements Comparable<Employee> {
         salary = s;
         GregorianCalendar calendar = new GregorianCalendar(year, month - 1, day);
         hireDay = calendar.getTime();
+    }
+
+    public Employee clone() throws CloneNotSupportedException {
+        //Call Object.clone()
+        Employee cloned = (Employee) super.clone();
+
+        //clone mutable fields
+        cloned.hireDay = (Date) hireDay.clone();
+        
+        return cloned;
     }
 
     public double getSalary()
