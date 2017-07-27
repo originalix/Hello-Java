@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37a9087-0201-4531-a028-d7b629cfb7f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TalkingClock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TalkingClock.java" afterPath="$PROJECT_DIR$/src/TalkingClock.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,9 +67,11 @@
       <file leaf-file-name="TalkingClock.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TalkingClock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="190">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/corejava/Employee.java" />
         <option value="$PROJECT_DIR$/src/CloneTest.java" />
         <option value="$PROJECT_DIR$/src/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/TalkingClock.java" />
       </list>
     </option>
   </component>
@@ -806,12 +809,12 @@
       <workItem from="1500961255887" duration="1294000" />
       <workItem from="1500965211143" duration="738000" />
       <workItem from="1500966675265" duration="2503000" />
-      <workItem from="1501123719134" duration="3449000" />
+      <workItem from="1501123719134" duration="3578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25698000" />
+    <option name="totallyTimeSpent" value="25827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1339,9 +1342,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TalkingClock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
