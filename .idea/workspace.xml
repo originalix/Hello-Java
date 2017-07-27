@@ -55,8 +55,8 @@
       <file leaf-file-name="TimerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TimerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="303">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -314,22 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CloneTest">
-    <configuration default="false" name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="EnumTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HelloJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TimerTest">
     <configuration default="false" name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ReflectionTest" />
@@ -378,6 +363,21 @@
     <configuration default="false" name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CloneTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HelloJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TimerTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -778,19 +778,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.EnumTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReflectionTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CopyOfTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EmployeeSortTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CloneTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReflectionTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CopyOfTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EmployeeSortTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CloneTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TimerTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CloneTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.EmployeeSortTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CopyOfTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReflectionTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.EnumTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TimerTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CloneTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.EmployeeSortTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CopyOfTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -821,12 +821,12 @@
       <workItem from="1500961255887" duration="1294000" />
       <workItem from="1500965211143" duration="738000" />
       <workItem from="1500966675265" duration="2503000" />
-      <workItem from="1501123719134" duration="2262000" />
+      <workItem from="1501123719134" duration="2520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24511000" />
+    <option name="totallyTimeSpent" value="24769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -839,7 +839,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1256" y="192" width="1208" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -850,7 +849,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32627118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32627118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1352,8 +1351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TimerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="303">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
