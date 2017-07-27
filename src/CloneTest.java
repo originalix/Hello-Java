@@ -9,7 +9,11 @@ public class CloneTest {
             Employee original = new Employee("Jhon Q. Public", 5000, 1993, 1, 27);
             Employee copy = original.clone();
             copy.raiseSalary(10);
-//            copy.set
+            copy.setHireDay(2002, 12, 31);
+            System.out.println("original = " + original);
+            System.out.println("copy = " + copy);
+        } catch (CloneNotSupportedException e) {
+            e.printStackTrace();
         }
     }
 }

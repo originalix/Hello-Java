@@ -29,6 +29,17 @@ public class Employee extends Person implements Comparable<Employee>, Cloneable 
         return cloned;
     }
 
+    /**
+     * Set the hire day to a given day
+     * @param year year
+     * @param month month
+     * @param day day
+     */
+    public void setHireDay(int year, int month, int day) {
+        Date newHireDay = new GregorianCalendar(year, month - 1, day).getTime();
+        hireDay.setTime(newHireDay.getTime());
+    }
+
     public double getSalary()
     {
         return salary;
