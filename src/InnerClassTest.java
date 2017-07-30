@@ -5,10 +5,10 @@ import javax.swing.*;
  */
 public class InnerClassTest {
     public static void main(String[] args) {
-        TalkingClock clock = new TalkingClock(10000, true);
-        clock.start();
-
-        JOptionPane.showMessageDialog(null, "Quit program?");
-        System.exit(0);
+//        TalkingClock clock = new TalkingClock(10000, true);
+//        clock.start();
+//
+//        JOptionPane.showMessageDialog(null, "Quit program?");
+//        System.exit(0);
     }
 }
