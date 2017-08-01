@@ -58,9 +58,11 @@
       <file leaf-file-name="NotHelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NotHelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -241,22 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleFrameTest">
-    <configuration default="false" name="AnonymousInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AnonymousInnerClassTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HelloJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.NotHelloWorld">
     <configuration default="false" name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="StaticInnerClassTest" />
@@ -305,6 +292,21 @@
     <configuration default="false" name="SizedFrameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SizedFrameTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HelloJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NotHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="NotHelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -705,19 +707,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AnonymousInnerClassTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ProxyTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ProxyTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NotHelloWorld" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ProxyTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AnonymousInnerClassTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NotHelloWorld" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ProxyTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
       </list>
     </recent_temporary>
   </component>
@@ -756,12 +758,12 @@
       <workItem from="1501543321760" duration="82000" />
       <workItem from="1501543426505" duration="159000" />
       <workItem from="1501543612649" duration="105000" />
-      <workItem from="1501566454878" duration="2713000" />
+      <workItem from="1501566454878" duration="2838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32648000" />
+    <option name="totallyTimeSpent" value="32773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -785,7 +787,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48673946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48673946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23712948" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1227,9 +1229,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NotHelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="308">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
