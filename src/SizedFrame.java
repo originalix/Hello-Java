@@ -6,7 +6,7 @@ import java.awt.*;
  */
 public class SizedFrame extends JFrame {
 
-    public SizedFrame {
+    public SizedFrame() {
         Toolkit kit = Toolkit.getDefaultToolkit();
         Dimension screenSize = kit.getScreenSize();
         int screenHeight = screenSize.height;
