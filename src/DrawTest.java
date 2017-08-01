@@ -8,6 +8,24 @@ import java.awt.geom.Rectangle2D;
  * Created by Lix on 2017/8/1.
  */
 public class DrawTest {
+    public static void main(String[] args) {
+        EventQueue.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                JFrame frame = new DrawFrame();
+                frame.setTitle("Draw Test");
+                frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                frame.setVisible(true);
+            }
+        });
+    }
+}
+
+class DrawFrame extends JFrame {
+    public DrawFrame() {
+        add(new DrawComponent());
+        pack();
+    }
 }
 
 class DrawComponent extends JComponent {

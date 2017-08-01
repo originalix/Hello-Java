@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37a9087-0201-4531-a028-d7b629cfb7f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DrawTest.java" afterPath="$PROJECT_DIR$/src/DrawTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,12 +58,12 @@
       <file leaf-file-name="DrawTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DrawTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="44" column="60" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+            <state relative-caret-position="374">
+              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1170#1171#0" expanded="true" />
-                <element signature="e#1237#1238#0" expanded="true" />
+                <element signature="e#1669#1670#0" expanded="true" />
+                <element signature="e#1736#1737#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -247,22 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NotHelloWorld">
-    <configuration default="false" name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="StaticInnerClassTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HelloJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DrawTest">
     <configuration default="false" name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ProxyTest" />
@@ -311,6 +295,21 @@
     <configuration default="false" name="NotHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="NotHelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HelloJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DrawTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DrawTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -711,19 +710,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ProxyTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NotHelloWorld" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ProxyTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NotHelloWorld" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DrawTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NotHelloWorld" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ProxyTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DrawTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NotHelloWorld" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleFrameTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SizedFrameTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -762,12 +761,12 @@
       <workItem from="1501543321760" duration="82000" />
       <workItem from="1501543426505" duration="159000" />
       <workItem from="1501543612649" duration="105000" />
-      <workItem from="1501566454878" duration="3733000" />
+      <workItem from="1501566454878" duration="3937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33668000" />
+    <option name="totallyTimeSpent" value="33872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1236,12 +1235,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="44" column="60" lean-forward="false" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+        <state relative-caret-position="374">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1170#1171#0" expanded="true" />
-            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
           </folding>
         </state>
       </provider>
